@@ -1,5 +1,7 @@
 # url_encode_and_decode
 
+I don't want to use https://www.urlencoder.org/ anymore because I can't trust its safety.
+
 gist url:
 [url_encode_decode](https://gist.github.com/opoojkk/65e3e6382bc95fedb7a94de2b7fbb00f)
 
