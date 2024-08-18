@@ -4,6 +4,8 @@ I don't want to use https://www.urlencoder.org/ anymore because I can't trust it
 
 gist url:
 [url_encode_decode](https://gist.github.com/opoojkk/65e3e6382bc95fedb7a94de2b7fbb00f)
+or
+[sh file](https://github.com/opoojkk/url_encode_and_decode/blob/master/url_encode_decode.sh)
 
 ## How to Use
 Save the Script: Save the provided shell script (url_encode_decode.sh) to your local machine.
