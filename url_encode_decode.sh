@@ -34,7 +34,7 @@ while getopts "e:d:" opt; do
             url_decode "$OPTARG"
             ;;
         *)
-            echo "usage: $0 -e string 或 $0 -d string"
+            echo "usage: $0 -e <url> 或 $0 -d <url>"
             ;;
     esac
 done
